@@ -1,0 +1,5 @@
+pyautogui
+flask
+word2number
+Pillow
+opencv-python
